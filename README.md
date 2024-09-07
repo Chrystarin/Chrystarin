@@ -32,6 +32,9 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/chrystarin"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="chrystarin" /></a><a href="https://ko-fi.com/chrystarin"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="chrystarin" /></a></p><br><br>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chrystarin&show_icons=true&locale=en&layout=compact" alt="chrystarin" />
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=chrystarin&show_icons=true&locale=en" alt="chrystarin" />
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=chrystarin&" alt="chrystarin" />
+<div style="display: flex; flex-direction: column;">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chrystarin&show_icons=true&locale=en&layout=compact" alt="chrystarin" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=chrystarin&show_icons=true&locale=en" alt="chrystarin" />
+    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=chrystarin&" alt="chrystarin" />
+</div>
+

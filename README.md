@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **ZapSnap**
 
-- 🌱 I’m currently learning **Redux, Nest.JS**
+- 🌱 I’m currently learning **Unreal Engine, Blender**
 
 - 👯 I’m looking to collaborate on **Any AI Projects**
 

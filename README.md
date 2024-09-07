@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dianne Chrystalin Brandez (Chrystarin)</h1>
 <h3 align="center">Software Engineer, Game Developer, & Digital Illustrator</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chrystarin" alt="chrystarin" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chrystarin&theme=juicyfresh" alt="chrystarin" /></a> </p>
 
 - 🔭 I’m currently working on **ZapSnap**
 

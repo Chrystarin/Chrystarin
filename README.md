@@ -2,4 +2,6 @@
 <h1>Dianne Chrystalin Brandez</h1>
 <h2>Chrystarin</h2>
 
+<h4>Software Engineer, Game Developer, & Digital Illustrator</h4>
+
 

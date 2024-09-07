@@ -33,7 +33,7 @@
 <p><a href="https://www.buymeacoffee.com/chrystarin"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="chrystarin" /></a><a href="https://ko-fi.com/chrystarin"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="chrystarin" /></a></p><br><br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chrystarin&show_icons=true&locale=en&layout=compact" alt="chrystarin" /></p>
-
+<br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=chrystarin&show_icons=true&locale=en" alt="chrystarin" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chrystarin&" alt="chrystarin" /></p>

@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chrystarin&theme=onedark&no-frame=true" alt="chrystarin" /></a> </p>
 
-- 🔭 I’m currently working on **A Roblox Math Game, Project Nirvana, a Custom Inventory System, an Events Place Reservation System, and Richwood Prisons Ranking System**
+- 🔭 I’m currently working on **A Roblox Math Game, Project Nirvana (Survival Apocalyptic Game), a Customized Inventory System for a Private Business, and an Events Place Reservation System CS Thesis Project**
 
-- 🌱 I’m currently learning **Unreal Engine, Blender**
+- 🌱 I’m currently learning **Unreal Engine, Blender, AI Development**
 
 - 👯 I’m looking to collaborate on **Any AI Projects**
 

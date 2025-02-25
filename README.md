@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **chrystarin@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1bmarMqoYyuykNy9eWhWFPRO3f6rBQURE/view](https://drive.google.com/file/d/1bmarMqoYyuykNy9eWhWFPRO3f6rBQURE/view)
-
 - ⚡ Fun fact **I am a huge yuri fan**
 
 <h3 align="left">Connect with me:</h3>

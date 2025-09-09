@@ -27,7 +27,7 @@
 
 <h3 align="left">Github Stats:</h3>
 <div style="display: flex; flex-direction: column;">
-<!--     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chrystarin&show_icons=true&locale=en&layout=compact" alt="chrystarin" /> -->
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chrystarin&show_icons=true&locale=en&layout=compact" alt="chrystarin" />
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=chrystarin&show_icons=true&locale=en" alt="chrystarin" />
     <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=chrystarin&" alt="chrystarin" />
 </div>

@@ -3,15 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chrystarin&theme=onedark&no-frame=true" alt="chrystarin" /></a> </p>
 
-- 🔭 I’m currently working on **A Roblox Math Game, Project Nirvana (Survival Apocalyptic Game), a Customized Inventory System for a Private Business, and an Events Place Reservation System CS Thesis Project**
-
-- 🌱 I’m currently learning **Unreal Engine, Blender, AI Development**
-
 - 👯 I’m looking to collaborate on **Any AI Projects**
 
-- 👨‍💻 All of my projects are available at [https://chrystarin.itch.io/](https://chrystarin.itch.io/)
+- 👨‍💻 All of my game projects are available at [https://chrystarin.itch.io/](https://chrystarin.itch.io/)
 
-- 📝 I regularly write articles on [https://www.facebook.com/chrystarinstudios](https://www.facebook.com/chrystarinstudios)
+- 📝 I post on [https://www.facebook.com/chrystarinstudios](https://www.facebook.com/chrystarinstudios)
 
 - 📫 How to reach me **chrystarin@gmail.com**
 

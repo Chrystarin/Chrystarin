@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Dianne Chrystalin Brandez (Chrystarin)</h1>
-<h3 align="center">Software Engineer, Game Developer, & Digital Illustrator</h3>
+<h1 align="center">Hi, I'm Dianne Chrystalin Brandez (Chrystarin)</h1>
+<h3 align="center">Software Engineer | Backend & Systems | Game Systems, Automation & AI-Integrated Workflows</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chrystarin&theme=onedark&no-frame=true" alt="chrystarin" /></a> </p>
 
@@ -10,8 +10,6 @@
 - 📝 I post on [https://www.facebook.com/chrystarinstudios](https://www.facebook.com/chrystarinstudios)
 
 - 📫 How to reach me **chrystarin@gmail.com**
-
-- ⚡ Fun fact **I am a huge yuri fan**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

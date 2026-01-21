@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Dianne Chrystalin Brandez (Chrystarin)</h1>
 <h3 align="center">Software Engineer | Backend & Systems | Game Systems, Automation & AI-Integrated Workflows</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chrystarin&theme=onedark&no-frame=true" alt="chrystarin" /></a> </p>
-
 - 👯 I’m looking to collaborate on **Any AI Projects**
 
 - 👨‍💻 All of my game projects are available at [https://chrystarin.itch.io/](https://chrystarin.itch.io/)
